@@ -10,3 +10,4 @@
 <p align="center">
 	<a class="button" href="https://github.com/easymineable/easymineable-desktop/releases" target="_blank" style="font-size: 32px; font-weight: bold;background-color: #00ad28; padding: 10px 20px; border-radius: 6px; color: #ffffff; text-decoration: none;outline: none;" >DOWNLOAD</a>
 </p>
+

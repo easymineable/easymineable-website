@@ -4,7 +4,7 @@
 
 <center>Supported Platforms: Windows/MacOS/Linux</center>
 <center>Supported Coins: Bitcoin, Dogecoin and 54 more different coins</center>
-<center>Supported Mining: CPU(Integrated XMRig)</center>
+<center>Supported Mining: CPU (Integrated XMRig)</center>
 
 <img src="easyMineable.png">
 

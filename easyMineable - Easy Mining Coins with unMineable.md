@@ -3,8 +3,8 @@
 ## Easy Mining Coins with [unMineable](https://www.unmineable.com/?ref=yjax-uulc)
 
 <center>Supported Platforms: Windows (x64), MacOS (x64/arm64), Linux (x64/arm64), Raspberry Pi (arm64)</center>
-<center>Supported Coins: Bitcoin, Dogecoin and 54 more different coins</center>
-<center>Supported Mining: CPU (Integrated XMRig)</center>
+<center>Supported Coins: Bitcoin, Dogecoin and 50 more different coins</center>
+<center>Supported Mining: CPU (XMRig), GPU (LolMiner)</center>
 
 <img src="easyMineable.png">
 
